@@ -1,5 +1,4 @@
 # MATLAB HS13 – Research Plan
-(text between brackets to be removed)
 
 > * Group Name: Fire-Phoenix
 > * Group participants names: Bojun Cheng & Zhe Sun
