@@ -31,7 +31,7 @@ The size distribution of forest fire satisfied a good power law.
 
 ## References 
 
-## W.G.Song et al., Fire Safety Journal 38 (2003) 453–465
+# W.G.Song et al., Fire Safety Journal 38 (2003) 453–465
 ## C.Ricotta et al., Ecological Modelling 119 (1999) 73–77
 ## S.Clar et al., Physica A 266 (1999) 153-159
 ## W.G.Song et al., Ecological Modelling 196(2006) 527–532
