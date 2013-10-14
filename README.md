@@ -31,17 +31,17 @@ The size distribution of forest fire satisfied a good power law.
 
 ## References 
 
-W.G.Song et al., Fire Safety Journal 38 (2003) 453–465\n
-C.Ricotta et al., Ecological Modelling 119 (1999) 73–77\n
-S.Clar et al., Physica A 266 (1999) 153-159\n
-W.G.Song et al., Ecological Modelling 196(2006) 527–532\n
-W.Song et al., Ecological Modelling 145 (2001) 61–68\n
-A.Alexandridis et al., Applied Mathematics and Computation 204 (2008) 191–201\n
-P.Bak et al., Physics Letter A 147 (1990) 297-300\n
-K.Chen et al., Physics Letter A 149 (1990) 207-210\n
-B.Drossel et al., Physics Review Letters 69 (1992) 1629-1632\n
-P.Bak et al., Physics Review A 38 (1988) 297-300 365-374\n
-B.D.Malamud et al., Science 281 (1998) 1840-1842\n
+## W.G.Song et al., Fire Safety Journal 38 (2003) 453–465
+## C.Ricotta et al., Ecological Modelling 119 (1999) 73–77
+## S.Clar et al., Physica A 266 (1999) 153-159
+## W.G.Song et al., Ecological Modelling 196(2006) 527–532
+## W.Song et al., Ecological Modelling 145 (2001) 61–68
+## A.Alexandridis et al., Applied Mathematics and Computation 204 (2008) 191–201
+## P.Bak et al., Physics Letter A 147 (1990) 297-300
+## K.Chen et al., Physics Letter A 149 (1990) 207-210
+## B.Drossel et al., Physics Review Letters 69 (1992) 1629-1632
+## P.Bak et al., Physics Review A 38 (1988) 297-300 365-374
+## B.D.Malamud et al., Science 281 (1998) 1840-1842
 
 
 ## Research Methods
