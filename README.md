@@ -65,4 +65,6 @@ Cellular Automata and Monte Carlo Simulation
 
 ## Other
 
-(mention datasets you are going to use)
+Open Data Schweiz
+
+Living Archive
